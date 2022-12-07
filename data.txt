@@ -1,0 +1,3 @@
+Name : delfina
+age : 26
+colore : verde
